@@ -6,7 +6,7 @@ Wersja repozytorium: **1.0**
 
 ---
 
-### Lista zmian (v.1.0):
+### Lista zmian (v.1.0)
 - Dodanie Collaborators (MS, MC, MR, JD)
 - Dodanie katalogu `DP` (Dokumentacja projektu)
   - Dodanie pliku index.md z opisem zmian w zawartości DP (placeholder).
@@ -16,8 +16,11 @@ Wersja repozytorium: **1.0**
   - Dodanie podkatalogu `DF/TP` (Tabela postępów).
 - Dodanie katalogu `Solution` (Katalog z kodem).
 - Dodanie pliku `cloud.json` zawierającego linki do miejsc bazujących na chmurze.
-- Dodanie plików do `DP`:
-  ```
+- Dodanie plików do `DP`
+- Dodanie pliku do `DF`
+
+### Struktura zmian
+```
   .
     ├── DP                   
         ├── inop_78_Stefanski_(DP)_v_2_0.pdf          # Pierwsza coś zawierająca dokumentacja projektu          
@@ -25,4 +28,6 @@ Wersja repozytorium: **1.0**
         ├── inop_78_Stefanski_(DP)_v_4_0.pdf          # Obszerna dokumentacja projektu (FS, FOW (poprawki), FA)
         ├── inop_78_Stefanski_(DP)_v_5_0.pdf          # Obszerna dokumentacja projektu (FS, FOW, FA, FP)
         └── README.md
+    ├── DF
+        ├── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy
   ```
