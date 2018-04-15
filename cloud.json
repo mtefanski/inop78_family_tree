@@ -1,0 +1,32 @@
+{
+  "package": "cloud.json",
+  "author": "SR",
+  "version": "1.0",
+  "description": "List of urls with docs, sheets based on cloud systems.",
+
+  "Dokumenty Google": {
+    "DP": {
+      "nazwa": "inop_78_Stefanski_DP_v_N_N",
+      "opis": "Dokumentacja projektu",
+      "url": "https://bit.ly/2JOIQRV"
+    },
+    "DF": {
+      "nazwa": "inop_78_Stefanski_DF_v_N_N",
+      "opis": "Dokumentacja firmy",
+      "url": "https://bit.ly/2qyDPVB"
+    }
+  },
+
+  "Arkusze Google": {
+    "RB": {
+      "nazwa": "inop_78_Stefanski_RB_v_N_N",
+      "opis": "Raport błędów",
+      "url": "https://bit.ly/2HE0EPm"
+    },
+    "TP": {
+      "nazwa": "inop_78_Stefanski_TP_v_N_N",
+      "opis": "Tabela postępów",
+      "url": "https://bit.ly/2qxijRs"
+    }
+  }
+}
