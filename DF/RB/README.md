@@ -1,0 +1,1 @@
+### Lista plików z różnymi wersjami Raportu Błędów
