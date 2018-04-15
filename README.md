@@ -1,6 +1,6 @@
 # Aplikacja Drzewa Genealogicznego
 
-*Projekt aplikacji drzewa genealogicznego na zaliczenie Inżynierii Oprogramowania*
+> Projekt aplikacji drzewa genealogicznego na zaliczenie Inżynierii Oprogramowania
 
 Wersja repozytorium: **1.0**
 
@@ -16,3 +16,13 @@ Wersja repozytorium: **1.0**
   - Dodanie podkatalogu `DF/TP` (Tabela postępów).
 - Dodanie katalogu `Solution` (Katalog z kodem).
 - Dodanie pliku `cloud.json` zawierającego linki do miejsc bazujących na chmurze.
+- Dodanie plików do `DP`:
+  ```
+  .
+    ├── DP                   
+        ├── inop_78_Stefanski_(DP)_v_2_0.pdf          # Pierwsza coś zawierająca dokumentacja projektu          
+        ├── inop_78_Stefanski_(DP)_v_3_0.pdf          # Obszerna dokumentacja projektu (FS, FOW)
+        ├── inop_78_Stefanski_(DP)_v_4_0.pdf          # Obszerna dokumentacja projektu (FS, FOW (poprawki), FA)
+        ├── inop_78_Stefanski_(DP)_v_5_0.pdf          # Obszerna dokumentacja projektu (FS, FOW, FA, FP)
+        └── README.md
+  ```
