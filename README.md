@@ -29,5 +29,5 @@ Wersja repozytorium: **1.0**
         ├── inop_78_Stefanski_(DP)_v_5_0.pdf          # Obszerna dokumentacja projektu (FS, FOW, FA, FP)
         └── README.md
     ├── DF
-        ├── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy
+        └── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy
   ```
