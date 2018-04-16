@@ -2,22 +2,13 @@
 
 > Projekt aplikacji drzewa genealogicznego na zaliczenie Inżynierii Oprogramowania
 
-Wersja repozytorium: **1.0**
+Wersja repozytorium: **1.1**
 
 ---
 
-### Lista zmian (v.1.0)
-- Dodanie Collaborators (MS, MC, MR, JD)
-- Dodanie katalogu `DP` (Dokumentacja projektu)
-  - Dodanie pliku index.md z opisem zmian w zawartości DP (placeholder).
-- Dodanie katalogu `DF` (Dokumentacja firmy)
-  - Dodanie pliku index.md z opisem zmian w zawartości DF (placeholder).
-  - Dodanie podkatalogu `DF/RB` (Raport błędów).
-  - Dodanie podkatalogu `DF/TP` (Tabela postępów).
-- Dodanie katalogu `Solution` (Katalog z kodem).
-- Dodanie pliku `cloud.json` zawierającego linki do miejsc bazujących na chmurze.
-- Dodanie plików do `DP`
-- Dodanie pliku do `DF`
+### Lista zmian (v.1.1)
+- Dodanie kolejnej wersji DP
+- Dodanie kolejnej wersji DF
 
 ### Struktura zmian
 ```
@@ -27,7 +18,8 @@ Wersja repozytorium: **1.0**
         ├── inop_78_Stefanski_(DP)_v_3_0.pdf          # Obszerna dokumentacja projektu (FS, FOW)
         ├── inop_78_Stefanski_(DP)_v_4_0.pdf          # Obszerna dokumentacja projektu (FS, FOW (poprawki), FA)
         ├── inop_78_Stefanski_(DP)_v_5_0.pdf          # Obszerna dokumentacja projektu (FS, FOW, FA, FP)
+        ├── inop_78_Stefanski_(DP)_v_6_0.pdf          # Odchudzona dokumentacja, poprawiony Algorytm
         └── README.md
     ├── DF
-        └── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy
+        └── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy z poprawkami
   ```
