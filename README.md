@@ -19,6 +19,7 @@ Wersja repozytorium: **1.1**
         ├── inop_78_Stefanski_(DP)_v_4_0.pdf          # Obszerna dokumentacja projektu (FS, FOW (poprawki), FA)
         ├── inop_78_Stefanski_(DP)_v_5_0.pdf          # Obszerna dokumentacja projektu (FS, FOW, FA, FP)
         ├── inop_78_Stefanski_(DP)_v_6_0.pdf          # Odchudzona dokumentacja, poprawiony Algorytm
+        ├── inop_78_Stefanski_(DP)_v_7_0.pdf          # Generowany spis treści, aktualizacje
         └── README.md
     ├── DF
         └── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy z poprawkami
