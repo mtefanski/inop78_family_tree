@@ -24,4 +24,6 @@ Wersja repozytorium: **1.2**
     ├── DF
         ├── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy z poprawkami
         └── inop_78_Stefanski_(DF)_v_4_0.pdf          # Generowany spis treści, aktualizacje
-  ```
+    ├── Solution
+        └── tree.exe                                  # Działająca baza programu (plik wykonywalny)
+```
