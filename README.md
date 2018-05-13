@@ -9,6 +9,7 @@ Wersja repozytorium: **1.2**
 ### Lista zmian (v.1.2)
 - Dodanie kolejnej wersji DP
 - Dodanie kolejnej wersji DF
+- Dodanie działącej bazy aplikacji Drzewa Genealogicznego
 
 ### Struktura zmian
 ```
