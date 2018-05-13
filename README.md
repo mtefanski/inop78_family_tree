@@ -2,11 +2,11 @@
 
 > Projekt aplikacji drzewa genealogicznego na zaliczenie Inżynierii Oprogramowania
 
-Wersja repozytorium: **1.1**
+Wersja repozytorium: **1.2**
 
 ---
 
-### Lista zmian (v.1.1)
+### Lista zmian (v.1.2)
 - Dodanie kolejnej wersji DP
 - Dodanie kolejnej wersji DF
 
@@ -22,5 +22,6 @@ Wersja repozytorium: **1.1**
         ├── inop_78_Stefanski_(DP)_v_7_0.pdf          # Generowany spis treści, aktualizacje
         └── README.md
     ├── DF
-        └── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy z poprawkami
+        ├── inop_78_Stefanski_(DF)_v_3_0.pdf          # Pierwsza znacząca dokumentacja firmy z poprawkami
+        └── inop_78_Stefanski_(DF)_v_4_0.pdf          # Generowany spis treści, aktualizacje
   ```
